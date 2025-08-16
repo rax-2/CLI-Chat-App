@@ -75,13 +75,3 @@ python chat_async.py
 
 ---
 
-## 📌 Roadmap
-
--
-
----
-
-## 📝 License
-
-MIT License. Free to use, modify, and share.
-
